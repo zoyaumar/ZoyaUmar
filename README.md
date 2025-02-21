@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **AI frameworks and libraries**
 
-- 👨‍💻 All of my projects are available at [https://zoyaumar.netlify.app/](https://zoyaumar.netlify.app/)
-
 - 💬 Ask me about **Mobile App development**
+
+- 👨‍💻 Take a look at my portfolio -> [zoyaumar.netlify.app](https://zoyaumar.netlify.app/)
 
 - 📫 How to reach me **zoyaumar.wrk@gmail.com**
 
