@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoya Umar</h1>
-<h3 align="center">A passionate Software Engineer from New Jersey</h3>
+<h3 align="center">A passionate full-stack software engineer from New Jersey</h3>
 
 - 🔭 I’m currently working on [PicturePerfect](https://github.com/zoyaumar/picture-perfect-app)
 
