@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zoya Umar</h1>
 <h3 align="center">A passionate full-stack software engineer from New Jersey</h3>
 
-- 🔭 I’m currently working on [PicturePerfect](https://github.com/zoyaumar/picture-perfect-app)
+- 🔭 I’m currently working on [PicturePerfect](https://github.com/zoyaumar/picture-perfect-app) and [Chat Assistant+Analyzer](https://github.com/zoyaumar/Chat-Analyzer-AI)
 
 - 🌱 I’m currently learning **AI frameworks and libraries**
 
