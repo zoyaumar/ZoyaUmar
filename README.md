@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **AI frameworks and libraries**
 
-- 💬 Ask me about **app development with the MERN stack**
+- 💬 Ask me about **app development with the MERN stack and Python**
 
 - 👨‍💻 Take a look at my portfolio -> [zoyaumar.netlify.app](https://zoyaumar.netlify.app/)
 
 - 📫 How to reach me **zoyaumar.wrk@gmail.com**
 
-- ⚡ Fun fact **I do music production and digital art in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
