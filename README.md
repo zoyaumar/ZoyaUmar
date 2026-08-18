@@ -1,4 +1,4 @@
-<h1 align="center">Hi ヾ(^_^ ) I'm Zoya Umar</h1>
+<h1 align="center">Hi ヾ(^_^ )  I'm Zoya Umar</h1>
 <h3 align="center">A passionate full-stack Software Engineer based in New Jersey</h3>
 
 - 🔭 I’m currently working on [PicturePerfect](https://github.com/zoyaumar/picture-perfect-app) and [Chat Assistant+Analyzer](https://github.com/zoyaumar/Chat-Analyzer-AI)
